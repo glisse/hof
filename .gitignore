@@ -1,0 +1,7 @@
+.*
+*.o
+*.a
+*.s
+*.patch
+.gitignore
+.gitmodule
